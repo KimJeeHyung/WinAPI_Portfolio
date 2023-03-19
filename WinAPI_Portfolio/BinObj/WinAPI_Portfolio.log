@@ -1,0 +1,62 @@
+﻿  Animation.cpp
+  AnimationInfo.cpp
+  Collider.cpp
+  ColliderBox.cpp
+  ColliderCircle.cpp
+  CollisionManager.cpp
+  GameInfo.cpp
+  GameManager.cpp
+  Background.cpp
+  Bullet.cpp
+  Character.cpp
+  Effect.cpp
+  GameObject.cpp
+  Monster.cpp
+  Opponent.cpp
+  Player.cpp
+  Tile.cpp
+  TileMap.cpp
+  Input.cpp
+  main.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  PathManager.cpp
+  Ref.cpp
+E:\Visual Studio Projects\Assortrock\02.WinAPI\WinAPI_Portfolio\WinAPI_Portfolio\Include\Ref.cpp(44,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\Visual Studio Projects\Assortrock\02.WinAPI\WinAPI_Portfolio\WinAPI_Portfolio\Include\Ref.cpp(49,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  AnimationManager.cpp
+  AnimationSequence.cpp
+  Font.cpp
+  FontManager.cpp
+  ResourceManager.cpp
+  Sound.cpp
+  SoundManager.cpp
+  Texture.cpp
+  TextureManager.cpp
+  Camera.cpp
+  EditDlg.cpp
+  EditScene.cpp
+  EndScene.cpp
+  MainScene.cpp
+  Scene.cpp
+  SceneCollision.cpp
+  SceneManager.cpp
+  SceneResource.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  StartScene.cpp
+  Timer.cpp
+  Button.cpp
+  CharacterHUD.cpp
+  CheckBox.cpp
+  Icon.cpp
+  Image.cpp
+  Number.cpp
+  ProgressBar.cpp
+  StartWindow.cpp
+  Text.cpp
+  Widget.cpp
+  WidgetComponent.cpp
+  WidgetWindow.cpp
+  코드를 생성하고 있습니다...
+  WinAPI_Portfolio.vcxproj -> E:\Visual Studio Projects\Assortrock\02.WinAPI\WinAPI_Portfolio\WinAPI_Portfolio\Bin\WinAPI_Portfolio_Debug.exe
